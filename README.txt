@@ -1,1 +1,2 @@
 THIS MY FIRST GIT DEMO
+这是我的第二行代码
